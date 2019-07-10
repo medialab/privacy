@@ -1,0 +1,3 @@
+[submodule "hyphe-topic-datascape"]
+	path = hyphe-topic-datascape
+	url = https://github.com/medialab/hyphe-topic-datascape.git
